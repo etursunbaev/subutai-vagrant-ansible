@@ -1,0 +1,7 @@
+SUBUTAI_PEER: 'false'
+#BRIDGE: 'br0'
+SUBUTAI_ENV: 'master'
+SUBUTAI_SCOPE: 'public'
+SUBUTAI_RAM: 4096
+DISK_SIZE: 466
+SUBUTAI_NAME: test-peer
